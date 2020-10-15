@@ -24,9 +24,13 @@
               "src/assets"
             ],
             "styles": [
+              "@fortawesome/fontawesome-free/css/all.css",
+              "bootswatch/dist/lux/bootstrap.min.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+               "@fortawesome/fontawesome-free/js/all.js"
+            ]
           },
           "configurations": {
             "production": {
